@@ -1,0 +1,1 @@
+Just a simple script that moves files between destinations. You just need to set the source path and destination path and the files will be removed. It's just a test/playaround script, so feel free to mess with it. 
